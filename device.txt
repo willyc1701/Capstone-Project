@@ -1,0 +1,9 @@
+Model Name, Model ID, Year bought, Cost, Quantity, Status
+Device1, ID001, 2020, 500.00, 5, 00001
+Device2, ID002, 2019, 700.00, 3, 001
+Device3, ID003, 2021, 600.00, 3, 000
+Device4, ID004, 2018, 800.00, 2, 00
+Device5, ID005, 2019, 450.00, 4, 0000
+Device6, ID006, 2020, 350.00, 2, 00
+Device7, ID007, 2022, 950.00, 1, 1
+Device8, ID008, 2017, 550.00, 2, 00
